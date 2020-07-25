@@ -1,0 +1,18 @@
+{
+  "alunos": [
+    {
+      "nome": "Phelipe Guedes",
+      "matricula": "3114104",
+      "curso": "Sistemas de Informação",
+      "email": "phelipe.guedes@hotmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Larissa Dantas",
+      "matricula": "3145607",
+      "curso": "Ciências Contábeis",
+      "email": "larissa_dantas92@gmail.com",
+      "id": 2
+    }
+  ]
+}
